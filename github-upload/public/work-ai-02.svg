@@ -1,0 +1,8 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="700" fill="#FBF1E7"/>
+  <rect x="92" y="90" width="716" height="520" rx="34" fill="#FFF9F2" stroke="#171717" stroke-opacity=".14" stroke-width="3"/>
+  <rect x="190" y="230" width="128" height="220" rx="30" fill="#FFD2EA"/>
+  <rect x="386" y="180" width="128" height="270" rx="30" fill="#D9F1FF"/>
+  <rect x="582" y="260" width="128" height="190" rx="30" fill="#FFD2EA"/>
+  <text x="116" y="150" fill="#171717" font-family="Microsoft YaHei, Arial, sans-serif" font-size="42" font-weight="700">动态内容</text>
+</svg>

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.npm-cache/
+.edge-headless/
+.standalone-build/
+netlify-site*/
+*.zip
+*.log
+diagnostic-*.png
+public/works/inbox/**/*.mp4
+public/works/inbox/**/*.webm
+public/works/inbox/**/*.mov
+public/works/inbox/**/*.m4v
+public/works/inbox/**/*.ogg

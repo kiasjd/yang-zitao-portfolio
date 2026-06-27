@@ -1,0 +1,9 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F8EFE7"/>
+  <path d="M120 720C230 520 370 432 548 462C710 489 790 342 1048 248" stroke="#FF1493" stroke-width="18" stroke-linecap="round" opacity=".72"/>
+  <rect x="110" y="110" width="980" height="680" rx="42" stroke="#171717" stroke-opacity=".14" stroke-width="3"/>
+  <circle cx="860" cy="250" r="94" fill="#FFB8DE" opacity=".7"/>
+  <circle cx="310" cy="585" r="128" fill="#D9F1FF" opacity=".9"/>
+  <text x="120" y="185" fill="#171717" font-family="Microsoft YaHei, Arial, sans-serif" font-size="62" font-weight="700">环境艺术主图</text>
+  <text x="120" y="255" fill="#6A625C" font-family="Microsoft YaHei, Arial, sans-serif" font-size="30">替换为真实作品封面</text>
+</svg>

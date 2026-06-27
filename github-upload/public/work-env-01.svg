@@ -1,0 +1,7 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="700" fill="#F7EFE8"/>
+  <rect x="88" y="88" width="724" height="524" rx="34" fill="#FFF8F2" stroke="#171717" stroke-opacity=".14" stroke-width="3"/>
+  <path d="M170 485L310 290L430 410L555 245L735 485" stroke="#FF1493" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="660" cy="190" r="62" fill="#FFD2EA"/>
+  <text x="116" y="150" fill="#171717" font-family="Microsoft YaHei, Arial, sans-serif" font-size="42" font-weight="700">文创产品</text>
+</svg>

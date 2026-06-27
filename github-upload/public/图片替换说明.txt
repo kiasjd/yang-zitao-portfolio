@@ -1,0 +1,14 @@
+把真实作品图片放到这个 public 文件夹里，然后替换下面这些文件名即可。
+
+环境艺术与文旅设计作品集：
+work-env-cover.svg  = 第一组大封面图
+work-env-01.svg     = 第一组右上小图
+work-env-02.svg     = 第一组右下小图
+
+AI 设计与 AIGC 视觉作品集：
+work-ai-cover.svg   = 第二组大封面图
+work-ai-01.svg      = 第二组右上小图
+work-ai-02.svg      = 第二组右下小图
+
+如果你想使用 JPG 或 PNG，也可以把图片放进 public 文件夹，
+然后告诉我文件名，我会把 index.html 和 src/App.jsx 里的路径改掉。

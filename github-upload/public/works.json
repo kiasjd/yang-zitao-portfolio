@@ -1,0 +1,478 @@
+﻿{
+  "updatedAt": "2026-06-23",
+  "works": [
+    {
+      "id": "dunhuang-feitian-ip",
+      "title": "娌欐捣鍏夎 路 椋炲ぉ閬楁ⅵ",
+      "year": "2025",
+      "category": "鍝佺墝鏂囧垱",
+      "group": "brand",
+      "section": "brand",
+      "featured": true,
+      "role": "IP褰㈣薄璁捐 / 琛嶇敓瑙嗚绯荤粺",
+      "tools": [
+        "AIGC",
+        "IP Design",
+        "Poster"
+      ],
+      "highlights": [
+        "浠ユ暒鐓岄澶╀笌姘戞棌鏂囧寲涓烘牳蹇冨缓绔嬫暟瀛桰P瑙掕壊",
+        "寤跺睍琛ㄦ儏銆佹捣鎶ャ€佹枃鍒涜鐢熷拰灞曠ず鐗╂枡",
+        "鐢ㄧ粺涓€鑹插僵涓庣汗鏍疯瑷€杩炴帴浼犵粺鏂囧寲鍜屽勾杞诲寲浼犳挱"
+      ],
+      "description": "鍩轰簬鏁︾厡闈為仐涓庢皯鏃忔枃鍖栬儗鏅瀯寤洪澶╂暟瀛?IP锛屽欢灞曡鑹层€佽〃鎯呫€佹捣鎶ヤ笌琛嶇敓鍝佺郴缁熴€?,
+      "metric": "IP 褰㈣薄 / 鏂囧垱琛嶇敓",
+      "note": "鏁︾厡鏂囧寲 / 瑙掕壊璁捐 / 琛嶇敓鍝?,
+      "cover": "/public/works/extracted/ai/pages/page-001.jpg",
+      "poster": "/public/works/extracted/ai/pages/page-001.jpg",
+      "images": [
+        "/public/works/extracted/ai/pages/page-001.jpg",
+        "/public/works/extracted/ai/pages/page-002.jpg",
+        "/public/works/extracted/ai/pages/page-003.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePages": "1-3",
+      "videoSrc": ""
+    },
+    {
+      "id": "changfeng-strawberry-ip",
+      "title": "闀夸赴鑾撳疂",
+      "year": "2025",
+      "category": "鍝佺墝鏂囧垱",
+      "group": "brand",
+      "section": "brand",
+      "featured": true,
+      "role": "鍦板煙IP璁捐 / 鍖呰搴旂敤",
+      "tools": [
+        "AIGC",
+        "Packaging",
+        "Character"
+      ],
+      "highlights": [
+        "鍥寸粫闀夸赴鑽夎帗寤虹珛鎷熶汉鍖朓P璁板繂鐐?,
+        "瑕嗙洊瑙掕壊璁惧畾銆佽〃鎯呭寘銆佸寘瑁呭拰鍦烘櫙搴旂敤",
+        "鎶婂啘浜у搧鍝佺墝杞寲涓烘洿鏄撲紶鎾殑瑙嗚璧勪骇"
+      ],
+      "description": "鍥寸粫闀夸赴鑽夎帗鍦板煙绗﹀彿璁捐 IP 瑙掕壊銆佸寘瑁呫€佽〃鎯呭拰鏂囧垱搴旂敤锛屽己鍖栦埂鏉戝搧鐗岃蹇嗙偣銆?,
+      "metric": "鍦板煙 IP / 鍖呰搴旂敤",
+      "note": "闀夸赴鑽夎帗 / 瑙掕壊璁捐 / 鍖呰鏂囧垱",
+      "cover": "/public/works/extracted/ai/pages/page-004.jpg",
+      "poster": "/public/works/extracted/ai/pages/page-004.jpg",
+      "images": [
+        "/public/works/extracted/ai/pages/page-004.jpg",
+        "/public/works/extracted/ai/pages/page-005.jpg",
+        "/public/works/extracted/ai/pages/page-006.jpg",
+        "/public/works/extracted/ai/pages/page-007.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePages": "4-7",
+      "videoSrc": ""
+    },
+    {
+      "id": "renxing-sanyuesan-ip",
+      "title": "浠佸叴 路 涓夋湀涓?,
+      "year": "2026",
+      "category": "鏂囨梾 IP",
+      "group": "travel",
+      "section": "travel",
+      "featured": true,
+      "role": "鏂囨梾IP璁捐 / 娲诲姩瑙嗚",
+      "tools": [
+        "IP System",
+        "Exhibition",
+        "AIGC"
+      ],
+      "highlights": [
+        "浠ユ皯鏃忚妭搴嗗満鏅粍缁囧弻瑙掕壊IP",
+        "寤跺睍鎵撳崱瑁呯疆銆佸懆杈瑰拰娲诲姩浼犳挱鐗╂枡",
+        "鎶婃枃鍖栫鍙疯浆鍖栦负鍙綋楠岀殑鏂囨梾鍦烘櫙"
+      ],
+      "description": "缁撳悎姘戞棌鏂囧寲鑺傚簡鍦烘櫙锛岃璁￠樋榛庝笌闃垮矚鍙岃鑹?IP銆佸睍闄堟墦鍗¤缃笌鍛ㄨ竟搴旂敤銆?,
+      "metric": "鑺傚簡 IP / 灞曢檲鎵撳崱",
+      "note": "姘戞棌鏂囧寲 / 鏂囨梾娲诲姩 / IP 钀藉湴",
+      "cover": "/public/works/extracted/ai/pages/page-008.jpg",
+      "poster": "/public/works/extracted/ai/pages/page-008.jpg",
+      "images": [
+        "/public/works/extracted/ai/pages/page-008.jpg",
+        "/public/works/extracted/ai/pages/page-009.jpg",
+        "/public/works/extracted/ai/pages/page-010.jpg",
+        "/public/works/extracted/ai/pages/page-011.jpg",
+        "/public/works/extracted/ai/pages/page-012.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePages": "8-12",
+      "videoSrc": ""
+    },
+    {
+      "id": "huan-yu-campus-space",
+      "title": "銆婄紦路闅呫€嬫牎鍥儏缁敮鎸佺┖闂?,
+      "year": "2026",
+      "category": "绌洪棿璁捐",
+      "group": "environment",
+      "section": "spatial",
+      "featured": true,
+      "role": "绌洪棿鍙欎簨 / 鏅鐣岄潰璁捐",
+      "tools": [
+        "Spatial Design",
+        "Diagram",
+        "Rendering"
+      ],
+      "highlights": [
+        "浠庢儏缁敮鎸侀渶姹傚嚭鍙戝缓绔嬫牎鍥┖闂磋矾寰?,
+        "鐢ㄦ煍鎬х晫闈㈢粍缁囧仠鐣欍€佺紦鍐插拰鑷垜璋冭妭",
+        "浣撶幇绌洪棿璁捐鍩虹涓庤瑙夎〃杈捐兘鍔?
+      ],
+      "description": "闈㈠悜鏍″洯鏃ュ父鎯呯华闇€姹傦紝灏嗗仠鐣欍€佺紦鍐蹭笌鑷垜璋冭妭杞寲涓虹┖闂磋矾寰勫拰鏌旀€ф櫙瑙傜晫闈€?,
+      "metric": "澶嶆剤鍨嬬┖闂磋璁?,
+      "note": "鏍″洯绌洪棿 / 鎯呯华鏀寔 / 鏅鍙欎簨",
+      "cover": "/public/works/covers/銆婄紦路闅呫€嬫牎鍥儏缁敮鎸佺┖闂?png",
+      "poster": "/public/works/extracted/ai/pages/page-013.jpg",
+      "images": [
+        "/public/works/extracted/ai/pages/page-014.jpg",
+        "/public/works/extracted/ai/pages/page-015.jpg",
+        "/public/works/extracted/ai/pages/page-016.jpg",
+        "/public/works/extracted/ai/pages/page-017.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePages": "13-17",
+      "videoSrc": ""
+    },
+    {
+      "id": "window-paper-cut-city",
+      "title": "銆婁竴寮犵獥鑺憋紝璧拌繘鍩庡競銆?,
+      "year": "2026",
+      "category": "AI / AIGC",
+      "group": "ai",
+      "section": "ai-lab",
+      "featured": true,
+      "role": "闈為仐瑙嗚杞瘧 / 鍔ㄦ€佸浘褰?,
+      "tools": [
+        "AIGC",
+        "Motion Graphic",
+        "Cultural Design"
+      ],
+      "highlights": [
+        "鎻愬彇杈藉畞闈為仐鍓焊绾规牱寤虹珛鏍稿績瑙嗚",
+        "缁撳悎鍔ㄦ€佸浘褰笌绾疄鍖栧煄甯傚満鏅?,
+        "寤跺睍鑷冲叕鍏辩┖闂淬€佹枃鍒涗骇鍝佷笌鍩庡競瑙嗚绯荤粺"
+      ],
+      "description": "浠ヨ窘瀹侀潪閬楀壀绾哥汗鏍蜂负鏍稿績锛岀粨鍚堝姩鎬佸浘褰笌鍩庡競鍦烘櫙锛屾帰绱紶缁熺獥鑺卞湪鍩庡競瑙嗚鍜屾枃鍒涜璁′腑鐨勫綋浠ｈ浆璇戙€?,
+      "metric": "鍩庡競瑙嗚 / 鏂囧垱寤跺睍",
+      "note": "杈藉畞闈為仐 / 鍓焊绾规牱 / 鍔ㄦ€佽瑙?,
+      "cover": "/public/works/covers/涓€寮犵獥鑺憋紝璧拌繘鍩庡競.jpg",
+      "poster": "/public/works/covers/涓€寮犵獥鑺憋紝璧拌繘鍩庡競.jpg",
+      "images": [
+        "/public/works/covers/涓€寮犵獥鑺憋紝璧拌繘鍩庡競.jpg"
+      ],
+      "sourcePdf": "",
+      "sourcePages": "",
+      "videoSrc": ""
+    },
+    {
+      "id": "dailu-ai-short-film",
+      "title": "浠ｅ綍",
+      "year": "2026",
+      "category": "AI 褰卞儚",
+      "group": "ai",
+      "section": "video",
+      "featured": true,
+      "role": "AI鐭墖姒傚康 / 鍒嗛暅缁勭粐",
+      "tools": [
+        "AI Film",
+        "Storyboard",
+        "Moodboard"
+      ],
+      "highlights": [
+        "鍥寸粫鐖跺瓙鍏崇郴寤虹珛鍙欎簨鐭墖姒傚康",
+        "鐢ㄥ垎闀滃拰瑙嗚璇█鎺у埗鎯呯华鑺傚",
+        "瑙嗛鏂囦欢寰呰ˉ鍏呭悗鍙洿鎺ユ帴鍏ユ挱鏀惧櫒"
+      ],
+      "description": "浠ョ埗瀛愬叧绯诲拰琛ㄨ揪鍥板涓烘牳蹇冿紝浣跨敤 AI 瑙嗚鐢熸垚涓庡垎闀滅粍缁囧畬鎴愬彊浜嬬煭鐗囨蹇点€?,
+      "metric": "AI Narrative Short Film",
+      "note": "鍓ф湰 / 鍒嗛暅 / AI 瑙嗛瑙嗚",
+      "cover": "/public/works/covers/浠ｅ綍.jpg",
+      "poster": "/public/works/extracted/ai/pages/page-018.jpg",
+      "images": [
+        "/public/works/extracted/ai/pages/page-018.jpg",
+        "/public/works/extracted/ai/pages/page-019.jpg",
+        "/public/works/extracted/ai/pages/page-020.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePages": "18-20",
+      "videoSrc": ""
+    },
+    {
+      "id": "ice-beer-commercial",
+      "title": "琚啺鐖芥帴浣?,
+      "year": "2026",
+      "category": "骞垮憡瑙嗚",
+      "group": "visual",
+      "section": "video",
+      "featured": true,
+      "role": "AI骞垮憡姒傚康 / 浜у搧瑙嗚",
+      "tools": [
+        "AI Commercial",
+        "Storyboard",
+        "Key Visual"
+      ],
+      "highlights": [
+        "鎶婇€氬嫟鐤叉儷鍜屽啺鐖介噴鏀捐浆鍖栦负骞垮憡鍐茬獊",
+        "缁勭粐涓昏瑙夈€佷骇鍝佸崠鐐瑰拰鍒嗛暅鑺傚",
+        "瑙嗛鏂囦欢寰呰ˉ鍏呭悗鍙洿鎺ユ帴鍏ユ挱鏀惧櫒"
+      ],
+      "description": "浠ラ€氬嫟鐤叉儷涓庡啺鐖介噴鏀句负鏍稿績鍐茬獊锛屾瀯寤哄暏閰掑箍鍛婃蹇电墖鐨勪富瑙嗚銆佸垎闀滀笌浜у搧鍗栫偣琛ㄨ揪銆?,
+      "metric": "AI Commercial Film",
+      "note": "骞垮憡姒傚康 / 浜у搧瑙嗚 / AI 鐢熸垚",
+      "cover": "/public/works/covers/鍝堢毊.jpg",
+      "poster": "/public/works/extracted/ai/pages/page-021.jpg",
+      "images": [
+        "/public/works/extracted/ai/pages/page-021.jpg",
+        "/public/works/extracted/ai/pages/page-022.jpg",
+        "/public/works/extracted/ai/pages/page-023.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePages": "21-23",
+      "videoSrc": ""
+    },
+    {
+      "id": "ai-architectural-generation",
+      "title": "Midjourney 寤虹瓚鏂囩敓鍥惧疄楠?,
+      "year": "2024",
+      "category": "AI / AIGC",
+      "group": "ai",
+      "section": "ai-lab",
+      "featured": false,
+      "role": "AIGC寤虹瓚姒傚康鎺㈢储",
+      "tools": [
+        "Midjourney",
+        "Prompt",
+        "Concept"
+      ],
+      "highlights": [
+        "鐢ㄦ枃鐢熷浘鎺㈢储寤虹瓚浣撻噺銆佸厜褰卞拰鏈潵绌洪棿姘涘洿",
+        "浣滀负绌洪棿姒傚康鏃╂湡楠岃瘉鍜岃瑙夋柟鍚戞帹婕?,
+        "杩炴帴鐜鑹烘湳鑳屾櫙涓嶢IGC宸ヤ綔娴?
+      ],
+      "description": "浣跨敤 Midjourney 鎺㈢储寤虹瓚姒傚康鐢熸垚銆佸厜褰遍鏍间笌鏈潵绌洪棿褰㈡€佽〃杈俱€?,
+      "metric": "AIGC 寤虹瓚瑙嗚",
+      "note": "Midjourney / 姒傚康寤虹瓚 / 瑙嗚瀹為獙",
+      "cover": "/public/works/covers/Stable Diffusion 寤虹瓚鏂囩敓鍥惧疄楠?png",
+      "poster": "/public/works/extracted/environment/pages/page-031.jpg",
+      "images": [
+        "/public/works/extracted/environment/pages/page-031.jpg",
+        "/public/works/extracted/environment/pages/page-032.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePages": "31-32",
+      "videoSrc": ""
+    },
+    {
+      "id": "ai-space-conversion",
+      "title": "Stable Diffusion 鍒涙剰鐢熸垚涓?LoRA 椋庢牸妯″瀷娴嬭瘯",
+      "year": "2024",
+      "category": "AI / AIGC",
+      "group": "ai",
+      "section": "ai-lab",
+      "featured": false,
+      "role": "Stable Diffusion 鍒涙剰鐢熸垚 / LoRA 娴嬭瘯",
+      "tools": [
+        "Stable Diffusion",
+        "LoRA",
+        "Image-to-Image"
+      ],
+      "highlights": [
+        "灏嗚崏鍥俱€佹棫寤虹瓚鐓х墖鍜屾剰鍚戝浘杞寲涓哄鍐呮蹇?,
+        "鎻愬崌绌洪棿鏀归€犳柟妗堢殑鏃╂湡鍙鍖栭€熷害",
+        "灞曠ずAI宸ュ叿鍦ㄨ璁℃祦绋嬩腑鐨勮緟鍔╀环鍊?
+      ],
+      "description": "浣跨敤 Stable Diffusion 杩涜鍥惧儚鍒涙剰鐢熸垚銆佸浘鐢熷浘杞崲涓?LoRA 椋庢牸妯″瀷娴嬭瘯锛屾帰绱笉鍚岃瑙夋柟鍚戝拰鐢熸垚鏁堟灉銆?,
+      "metric": "AI 鍒涙剰鐢熸垚 / LoRA 娴嬭瘯",
+      "note": "Stable Diffusion / LoRA / 鍥剧敓鍥?,
+      "cover": "/public/works/covers/Stable Diffusion 鍒涙剰鐢熸垚涓?LoRA 椋庢牸妯″瀷娴嬭瘯.jpg",
+      "poster": "/public/works/extracted/environment/pages/page-033.jpg",
+      "images": [
+        "/public/works/extracted/environment/pages/page-033.jpg",
+        "/public/works/extracted/environment/pages/page-034.jpg",
+        "/public/works/extracted/environment/pages/page-035.jpg",
+        "/public/works/extracted/environment/pages/page-036.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePages": "33-36",
+      "videoSrc": ""
+    },
+    {
+      "id": "aging-digital-gap-landscape",
+      "title": "鑰侀緞鏁板瓧楦挎矡涓嬫彃鍏ュ紡鏅璁捐",
+      "year": "2024",
+      "category": "鐜鑹烘湳",
+      "group": "environment",
+      "section": "spatial",
+      "featured": false,
+      "role": "閫傝€佸寲鏅璁捐",
+      "tools": [
+        "Landscape",
+        "Accessibility",
+        "Diagram"
+      ],
+      "highlights": [
+        "鍥炲簲鑰佸勾缇や綋鍦ㄦ暟瀛楃敓娲讳腑鐨勬柇灞傞棶棰?,
+        "浠ュ叕鍏辩┖闂存彃鍏ョ瓥鐣ョ粍缁囩ぞ鍖烘椿鍔?,
+        "鍏奸【鐮旂┒璁鍜屾櫙瑙傝璁¤〃杈?
+      ],
+      "description": "浠ラ€傝€佸寲鍏叡绌洪棿涓哄垏鍏ョ偣锛屽洖搴旇€佸勾缇や綋鍦ㄦ暟瀛楃敓娲讳腑鐨勬柇灞備笌鏃ュ父娲诲姩闇€姹傘€?,
+      "metric": "涓滃寳涓夌渷閫傝€佸寲绔炶禌浼樼濂?,
+      "note": "閫傝€佸寲 / 鏅鏇存柊 / 绀惧尯绌洪棿",
+      "cover": "/public/works/covers/鑰侀緞鏁板瓧楦挎矡涓嬫彃鍏ュ紡鏅璁捐.jpg",
+      "poster": "/public/works/extracted/environment/pages/page-010.jpg",
+      "images": [
+        "/public/works/extracted/environment/pages/page-009.jpg",
+        "/public/works/extracted/environment/pages/page-010.jpg",
+        "/public/works/extracted/environment/pages/page-011.jpg",
+        "/public/works/extracted/environment/pages/page-012.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePages": "9-12",
+      "videoSrc": ""
+    },
+    {
+      "id": "hidden-city-river-village",
+      "title": "闅愪簬甯?路 鎲╀簬鏉?,
+      "year": "2023",
+      "category": "鏅璁捐",
+      "group": "environment",
+      "section": "spatial",
+      "featured": false,
+      "role": "鏅璁捐 / 鐢熸€佸彊浜?,
+      "tools": [
+        "Landscape",
+        "Ecology",
+        "Masterplan"
+      ],
+      "highlights": [
+        "缁勭粐鍩庡競杈圭紭涓庝埂鏉戞棩甯哥殑鏌旀€ц繛鎺?,
+        "鍥寸粫鐢熸€佸哺绾裤€佹潙钀借矾寰勫拰鍏叡娲诲姩灞曞紑",
+        "閫氳繃杩炵画鍥炬澘灞曠ず鏅绛栫暐鍜岀┖闂存皼鍥?
+      ],
+      "description": "浠ョ敓鎬佸哺绾裤€佹潙钀借矾寰勪笌鍏叡娲诲姩涓烘牳蹇冿紝寤虹珛鍩庡競杈圭紭涓庝埂鏉戞棩甯镐箣闂寸殑鏌旀€ц繛鎺ャ€?,
+      "metric": "鍥喍鏉珵璧涗綔鍝?,
+      "note": "鏅璁捐 / 鐢熸€佷慨澶?/ 涔℃潙绌洪棿",
+      "cover": "/public/works/covers/闅愪簬甯?路 鎲╀簬鏉?png",
+      "poster": "/public/works/extracted/environment/pages/page-014.jpg",
+      "images": [
+        "/public/works/extracted/environment/pages/page-013.jpg",
+        "/public/works/extracted/environment/pages/page-014.jpg",
+        "/public/works/extracted/environment/pages/page-015.jpg",
+        "/public/works/extracted/environment/pages/page-016.jpg",
+        "/public/works/extracted/environment/pages/page-017.jpg",
+        "/public/works/extracted/environment/pages/page-018.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePages": "13-18",
+      "videoSrc": ""
+    },
+    {
+      "id": "zambian-camp-sustainable-center",
+      "title": "Sustainable Center in Zambian Camp",
+      "year": "2024",
+      "category": "寤虹瓚绌洪棿",
+      "group": "environment",
+      "section": "spatial",
+      "featured": false,
+      "role": "鍙寔缁缓绛?/ 绀惧尯绌洪棿",
+      "tools": [
+        "Architecture",
+        "Sustainability",
+        "Model"
+      ],
+      "highlights": [
+        "闈㈠悜闅炬皯钀ュ叕鍏辨敮鎸侀渶姹傜粍缁囧彲鎸佺画涓績",
+        "缁撳悎鍩虹璁炬柦銆佺ぞ鍖烘湇鍔″拰绌洪棿闊ф€?,
+        "閫氳繃妯″瀷銆佸墫闈㈠拰娓叉煋琛ㄨ揪寤虹瓚绯荤粺"
+      ],
+      "description": "闈㈠悜闅炬皯钀ュ満鏅殑鍙寔缁腑蹇冭璁★紝鍏虫敞鍩虹璁炬柦銆佺ぞ鍖烘敮鎸佷笌绌洪棿闊ф€с€?,
+      "metric": "ASLA 绔炶禌浣滃搧",
+      "note": "鍙寔缁缓绛?/ 闅炬皯钀?/ 鍏叡鏀寔绌洪棿",
+      "cover": "/public/works/covers/浠庡簾澧熶腑宕涜捣锛氳禐姣斾簹闅炬皯钀?png",
+      "poster": "/public/works/extracted/environment/pages/page-020.jpg",
+      "images": [
+        "/public/works/extracted/environment/pages/page-019.jpg",
+        "/public/works/extracted/environment/pages/page-020.jpg",
+        "/public/works/extracted/environment/pages/page-021.jpg",
+        "/public/works/extracted/environment/pages/page-022.jpg",
+        "/public/works/extracted/environment/pages/page-023.jpg",
+        "/public/works/extracted/environment/pages/page-024.jpg",
+        "/public/works/extracted/environment/pages/page-025.jpg",
+        "/public/works/extracted/environment/pages/page-026.jpg",
+        "/public/works/extracted/environment/pages/page-027.jpg",
+        "/public/works/extracted/environment/pages/page-028.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePages": "19-28",
+      "videoSrc": ""
+    },
+    {
+      "id": "bionic-natural-parameters",
+      "title": "浠跨敓 路 鍙傛暟鑷劧",
+      "year": "2021",
+      "category": "瑁呯疆璁捐",
+      "group": "environment",
+      "section": "spatial",
+      "featured": false,
+      "role": "鍙傛暟鍖栬缃?/ 妯″瀷鍒朵綔",
+      "tools": [
+        "Parametric",
+        "Installation",
+        "Model"
+      ],
+      "highlights": [
+        "浠ヤ豢鐢熷舰鎬佺敓鎴愯缃鏋?,
+        "缁撳悎鍏変紡渚涜兘鍜岀伅鍏夊疄楠屽舰鎴愬睍绀烘ā鍨?,
+        "浣撶幇缁撴瀯鎺ㄦ紨鍜屽疄浣撳埗浣滆兘鍔?
+      ],
+      "description": "浠ヤ豢鐢熷舰鎬佸拰鍙傛暟鍖栫粨鏋勭敓鎴愯缃鏋讹紝缁撳悎鍏変紡渚涜兘涓庣伅鍏夊疄楠屽舰鎴愬彲灞曠ず妯″瀷銆?,
+      "metric": "妯″瀷鍒朵綔 / 鍙傛暟鍖栧舰鎬?,
+      "note": "浠跨敓缁撴瀯 / 瑁呯疆 / 鐏厜瀹為獙",
+      "cover": "/public/works/covers/浠跨敓 路 鍙傛暟鑷劧.jpg",
+      "poster": "/public/works/extracted/environment/pages/page-029.jpg",
+      "images": [
+        "/public/works/extracted/environment/pages/page-029.jpg",
+        "/public/works/extracted/environment/pages/page-030.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePages": "29-30",
+      "videoSrc": ""
+    },
+    {
+      "id": "blue-white-commercial-space",
+      "title": "钃濈櫧鍟嗕笟绌洪棿璁捐",
+      "year": "2024",
+      "category": "瀹ゅ唴璁捐",
+      "group": "environment",
+      "section": "spatial",
+      "featured": false,
+      "role": "瀹ゅ唴璁捐 / 闂ㄥご瑙嗚",
+      "tools": [
+        "Interior",
+        "Brand Space",
+        "Layout"
+      ],
+      "highlights": [
+        "鐢ㄨ摑鐧借壊褰╃郴缁熺粺涓€鍟嗕笟绌洪棿涓庨棬澶磋瑙?,
+        "瑕嗙洊骞抽潰甯冨眬銆佹晥鏋滃浘鍜屾潗鏂欒〃杈?,
+        "灞曠ず瀹ゅ唴绌洪棿涓庡搧鐗岃瑙夋暣鍚堣兘鍔?
+      ],
+      "description": "浠ヨ摑鐧借壊褰╃郴缁熷拰娓呯埥鏉愯川缁勭粐鍟嗕笟绌洪棿銆佸钩闈㈠竷灞€涓庨棬澶磋瑙夈€?,
+      "metric": "瀹ゅ唴 / 闂ㄥご / 骞抽潰",
+      "note": "鍟嗕笟绌洪棿 / 瀹ゅ唴璁捐 / 瑙嗚缁熶竴",
+      "cover": "/public/works/covers/钃濈櫧鍟嗕笟绌洪棿璁捐.jpg",
+      "poster": "/public/works/extracted/environment/pages/page-037.jpg",
+      "images": [
+        "/public/works/extracted/environment/pages/page-037.jpg",
+        "/public/works/extracted/environment/pages/page-038.jpg"
+      ],
+      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePages": "37-38",
+      "videoSrc": ""
+    }
+  ]
+}
