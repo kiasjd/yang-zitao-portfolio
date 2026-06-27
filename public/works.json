@@ -1,168 +1,168 @@
-﻿{
+{
   "updatedAt": "2026-06-23",
   "works": [
     {
       "id": "dunhuang-feitian-ip",
-      "title": "娌欐捣鍏夎 路 椋炲ぉ閬楁ⅵ",
+      "title": "沙海光语 · 飞天遗梦",
       "year": "2025",
-      "category": "鍝佺墝鏂囧垱",
+      "category": "品牌文创",
       "group": "brand",
       "section": "brand",
       "featured": true,
-      "role": "IP褰㈣薄璁捐 / 琛嶇敓瑙嗚绯荤粺",
+      "role": "IP形象设计 / 衍生视觉系统",
       "tools": [
         "AIGC",
         "IP Design",
         "Poster"
       ],
       "highlights": [
-        "浠ユ暒鐓岄澶╀笌姘戞棌鏂囧寲涓烘牳蹇冨缓绔嬫暟瀛桰P瑙掕壊",
-        "寤跺睍琛ㄦ儏銆佹捣鎶ャ€佹枃鍒涜鐢熷拰灞曠ず鐗╂枡",
-        "鐢ㄧ粺涓€鑹插僵涓庣汗鏍疯瑷€杩炴帴浼犵粺鏂囧寲鍜屽勾杞诲寲浼犳挱"
+        "以敦煌飞天与民族文化为核心建立数字IP角色",
+        "延展表情、海报、文创衍生和展示物料",
+        "用统一色彩与纹样语言连接传统文化和年轻化传播"
       ],
-      "description": "鍩轰簬鏁︾厡闈為仐涓庢皯鏃忔枃鍖栬儗鏅瀯寤洪澶╂暟瀛?IP锛屽欢灞曡鑹层€佽〃鎯呫€佹捣鎶ヤ笌琛嶇敓鍝佺郴缁熴€?,
-      "metric": "IP 褰㈣薄 / 鏂囧垱琛嶇敓",
-      "note": "鏁︾厡鏂囧寲 / 瑙掕壊璁捐 / 琛嶇敓鍝?,
-      "cover": "/public/works/extracted/ai/pages/page-001.jpg",
-      "poster": "/public/works/extracted/ai/pages/page-001.jpg",
+      "description": "基于敦煌非遗与民族文化背景构建飞天数字 IP，延展角色、表情、海报与衍生品系统。",
+      "metric": "IP 形象 / 文创衍生",
+      "note": "敦煌文化 / 角色设计 / 衍生品",
+      "cover": "./public/works/extracted/ai/pages/page-001.png",
+      "poster": "./public/works/extracted/ai/pages/page-001.png",
       "images": [
-        "/public/works/extracted/ai/pages/page-001.jpg",
-        "/public/works/extracted/ai/pages/page-002.jpg",
-        "/public/works/extracted/ai/pages/page-003.jpg"
+        "./public/works/extracted/ai/pages/page-001.png",
+        "./public/works/extracted/ai/pages/page-002.png",
+        "./public/works/extracted/ai/pages/page-003.png"
       ],
-      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePdf": "./public/yang-zitao-ai.pdf",
       "sourcePages": "1-3",
       "videoSrc": ""
     },
     {
       "id": "changfeng-strawberry-ip",
-      "title": "闀夸赴鑾撳疂",
+      "title": "长丰莓宝",
       "year": "2025",
-      "category": "鍝佺墝鏂囧垱",
+      "category": "品牌文创",
       "group": "brand",
       "section": "brand",
       "featured": true,
-      "role": "鍦板煙IP璁捐 / 鍖呰搴旂敤",
+      "role": "地域IP设计 / 包装应用",
       "tools": [
         "AIGC",
         "Packaging",
         "Character"
       ],
       "highlights": [
-        "鍥寸粫闀夸赴鑽夎帗寤虹珛鎷熶汉鍖朓P璁板繂鐐?,
-        "瑕嗙洊瑙掕壊璁惧畾銆佽〃鎯呭寘銆佸寘瑁呭拰鍦烘櫙搴旂敤",
-        "鎶婂啘浜у搧鍝佺墝杞寲涓烘洿鏄撲紶鎾殑瑙嗚璧勪骇"
+        "围绕长丰草莓建立拟人化IP记忆点",
+        "覆盖角色设定、表情包、包装和场景应用",
+        "把农产品品牌转化为更易传播的视觉资产"
       ],
-      "description": "鍥寸粫闀夸赴鑽夎帗鍦板煙绗﹀彿璁捐 IP 瑙掕壊銆佸寘瑁呫€佽〃鎯呭拰鏂囧垱搴旂敤锛屽己鍖栦埂鏉戝搧鐗岃蹇嗙偣銆?,
-      "metric": "鍦板煙 IP / 鍖呰搴旂敤",
-      "note": "闀夸赴鑽夎帗 / 瑙掕壊璁捐 / 鍖呰鏂囧垱",
-      "cover": "/public/works/extracted/ai/pages/page-004.jpg",
-      "poster": "/public/works/extracted/ai/pages/page-004.jpg",
+      "description": "围绕长丰草莓地域符号设计 IP 角色、包装、表情和文创应用，强化乡村品牌记忆点。",
+      "metric": "地域 IP / 包装应用",
+      "note": "长丰草莓 / 角色设计 / 包装文创",
+      "cover": "./public/works/extracted/ai/pages/page-004.png",
+      "poster": "./public/works/extracted/ai/pages/page-004.png",
       "images": [
-        "/public/works/extracted/ai/pages/page-004.jpg",
-        "/public/works/extracted/ai/pages/page-005.jpg",
-        "/public/works/extracted/ai/pages/page-006.jpg",
-        "/public/works/extracted/ai/pages/page-007.jpg"
+        "./public/works/extracted/ai/pages/page-004.png",
+        "./public/works/extracted/ai/pages/page-005.png",
+        "./public/works/extracted/ai/pages/page-006.png",
+        "./public/works/extracted/ai/pages/page-007.png"
       ],
-      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePdf": "./public/yang-zitao-ai.pdf",
       "sourcePages": "4-7",
       "videoSrc": ""
     },
     {
       "id": "renxing-sanyuesan-ip",
-      "title": "浠佸叴 路 涓夋湀涓?,
+      "title": "仁兴 · 三月三",
       "year": "2026",
-      "category": "鏂囨梾 IP",
+      "category": "文旅 IP",
       "group": "travel",
       "section": "travel",
       "featured": true,
-      "role": "鏂囨梾IP璁捐 / 娲诲姩瑙嗚",
+      "role": "文旅IP设计 / 活动视觉",
       "tools": [
         "IP System",
         "Exhibition",
         "AIGC"
       ],
       "highlights": [
-        "浠ユ皯鏃忚妭搴嗗満鏅粍缁囧弻瑙掕壊IP",
-        "寤跺睍鎵撳崱瑁呯疆銆佸懆杈瑰拰娲诲姩浼犳挱鐗╂枡",
-        "鎶婃枃鍖栫鍙疯浆鍖栦负鍙綋楠岀殑鏂囨梾鍦烘櫙"
+        "以民族节庆场景组织双角色IP",
+        "延展打卡装置、周边和活动传播物料",
+        "把文化符号转化为可体验的文旅场景"
       ],
-      "description": "缁撳悎姘戞棌鏂囧寲鑺傚簡鍦烘櫙锛岃璁￠樋榛庝笌闃垮矚鍙岃鑹?IP銆佸睍闄堟墦鍗¤缃笌鍛ㄨ竟搴旂敤銆?,
-      "metric": "鑺傚簡 IP / 灞曢檲鎵撳崱",
-      "note": "姘戞棌鏂囧寲 / 鏂囨梾娲诲姩 / IP 钀藉湴",
-      "cover": "/public/works/extracted/ai/pages/page-008.jpg",
-      "poster": "/public/works/extracted/ai/pages/page-008.jpg",
+      "description": "结合民族文化节庆场景，设计阿黎与阿岚双角色 IP、展陈打卡装置与周边应用。",
+      "metric": "节庆 IP / 展陈打卡",
+      "note": "民族文化 / 文旅活动 / IP 落地",
+      "cover": "./public/works/extracted/ai/pages/page-008.png",
+      "poster": "./public/works/extracted/ai/pages/page-008.png",
       "images": [
-        "/public/works/extracted/ai/pages/page-008.jpg",
-        "/public/works/extracted/ai/pages/page-009.jpg",
-        "/public/works/extracted/ai/pages/page-010.jpg",
-        "/public/works/extracted/ai/pages/page-011.jpg",
-        "/public/works/extracted/ai/pages/page-012.jpg"
+        "./public/works/extracted/ai/pages/page-008.png",
+        "./public/works/extracted/ai/pages/page-009.png",
+        "./public/works/extracted/ai/pages/page-010.png",
+        "./public/works/extracted/ai/pages/page-011.png",
+        "./public/works/extracted/ai/pages/page-012.png"
       ],
-      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePdf": "./public/yang-zitao-ai.pdf",
       "sourcePages": "8-12",
       "videoSrc": ""
     },
     {
       "id": "huan-yu-campus-space",
-      "title": "銆婄紦路闅呫€嬫牎鍥儏缁敮鎸佺┖闂?,
+      "title": "《缓·隅》校园情绪支持空间",
       "year": "2026",
-      "category": "绌洪棿璁捐",
+      "category": "空间设计",
       "group": "environment",
       "section": "spatial",
       "featured": true,
-      "role": "绌洪棿鍙欎簨 / 鏅鐣岄潰璁捐",
+      "role": "空间叙事 / 景观界面设计",
       "tools": [
         "Spatial Design",
         "Diagram",
         "Rendering"
       ],
       "highlights": [
-        "浠庢儏缁敮鎸侀渶姹傚嚭鍙戝缓绔嬫牎鍥┖闂磋矾寰?,
-        "鐢ㄦ煍鎬х晫闈㈢粍缁囧仠鐣欍€佺紦鍐插拰鑷垜璋冭妭",
-        "浣撶幇绌洪棿璁捐鍩虹涓庤瑙夎〃杈捐兘鍔?
+        "从情绪支持需求出发建立校园空间路径",
+        "用柔性界面组织停留、缓冲和自我调节",
+        "体现空间设计基础与视觉表达能力"
       ],
-      "description": "闈㈠悜鏍″洯鏃ュ父鎯呯华闇€姹傦紝灏嗗仠鐣欍€佺紦鍐蹭笌鑷垜璋冭妭杞寲涓虹┖闂磋矾寰勫拰鏌旀€ф櫙瑙傜晫闈€?,
-      "metric": "澶嶆剤鍨嬬┖闂磋璁?,
-      "note": "鏍″洯绌洪棿 / 鎯呯华鏀寔 / 鏅鍙欎簨",
-      "cover": "/public/works/covers/銆婄紦路闅呫€嬫牎鍥儏缁敮鎸佺┖闂?png",
-      "poster": "/public/works/extracted/ai/pages/page-013.jpg",
+      "description": "面向校园日常情绪需求，将停留、缓冲与自我调节转化为空间路径和柔性景观界面。",
+      "metric": "复愈型空间设计",
+      "note": "校园空间 / 情绪支持 / 景观叙事",
+      "cover": "./public/works/covers/《缓·隅》校园情绪支持空间.png",
+      "poster": "./public/works/extracted/ai/pages/page-013.png",
       "images": [
-        "/public/works/extracted/ai/pages/page-014.jpg",
-        "/public/works/extracted/ai/pages/page-015.jpg",
-        "/public/works/extracted/ai/pages/page-016.jpg",
-        "/public/works/extracted/ai/pages/page-017.jpg"
+        "./public/works/extracted/ai/pages/page-014.png",
+        "./public/works/extracted/ai/pages/page-015.png",
+        "./public/works/extracted/ai/pages/page-016.png",
+        "./public/works/extracted/ai/pages/page-017.png"
       ],
-      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePdf": "./public/yang-zitao-ai.pdf",
       "sourcePages": "13-17",
       "videoSrc": ""
     },
     {
       "id": "window-paper-cut-city",
-      "title": "銆婁竴寮犵獥鑺憋紝璧拌繘鍩庡競銆?,
+      "title": "《一张窗花，走进城市》",
       "year": "2026",
       "category": "AI / AIGC",
       "group": "ai",
       "section": "ai-lab",
       "featured": true,
-      "role": "闈為仐瑙嗚杞瘧 / 鍔ㄦ€佸浘褰?,
+      "role": "非遗视觉转译 / 动态图形",
       "tools": [
         "AIGC",
         "Motion Graphic",
         "Cultural Design"
       ],
       "highlights": [
-        "鎻愬彇杈藉畞闈為仐鍓焊绾规牱寤虹珛鏍稿績瑙嗚",
-        "缁撳悎鍔ㄦ€佸浘褰笌绾疄鍖栧煄甯傚満鏅?,
-        "寤跺睍鑷冲叕鍏辩┖闂淬€佹枃鍒涗骇鍝佷笌鍩庡競瑙嗚绯荤粺"
+        "提取辽宁非遗剪纸纹样建立核心视觉",
+        "结合动态图形与纪实化城市场景",
+        "延展至公共空间、文创产品与城市视觉系统"
       ],
-      "description": "浠ヨ窘瀹侀潪閬楀壀绾哥汗鏍蜂负鏍稿績锛岀粨鍚堝姩鎬佸浘褰笌鍩庡競鍦烘櫙锛屾帰绱紶缁熺獥鑺卞湪鍩庡競瑙嗚鍜屾枃鍒涜璁′腑鐨勫綋浠ｈ浆璇戙€?,
-      "metric": "鍩庡競瑙嗚 / 鏂囧垱寤跺睍",
-      "note": "杈藉畞闈為仐 / 鍓焊绾规牱 / 鍔ㄦ€佽瑙?,
-      "cover": "/public/works/covers/涓€寮犵獥鑺憋紝璧拌繘鍩庡競.jpg",
-      "poster": "/public/works/covers/涓€寮犵獥鑺憋紝璧拌繘鍩庡競.jpg",
+      "description": "以辽宁非遗剪纸纹样为核心，结合动态图形与城市场景，探索传统窗花在城市视觉和文创设计中的当代转译。",
+      "metric": "城市视觉 / 文创延展",
+      "note": "辽宁非遗 / 剪纸纹样 / 动态视觉",
+      "cover": "./public/works/covers/一张窗花，走进城市.png",
+      "poster": "./public/works/covers/一张窗花，走进城市.png",
       "images": [
-        "/public/works/covers/涓€寮犵獥鑺憋紝璧拌繘鍩庡競.jpg"
+        "./public/works/covers/一张窗花，走进城市.png"
       ],
       "sourcePdf": "",
       "sourcePages": "",
@@ -170,203 +170,203 @@
     },
     {
       "id": "dailu-ai-short-film",
-      "title": "浠ｅ綍",
+      "title": "代录",
       "year": "2026",
-      "category": "AI 褰卞儚",
+      "category": "AI 影像",
       "group": "ai",
       "section": "video",
       "featured": true,
-      "role": "AI鐭墖姒傚康 / 鍒嗛暅缁勭粐",
+      "role": "AI短片概念 / 分镜组织",
       "tools": [
         "AI Film",
         "Storyboard",
         "Moodboard"
       ],
       "highlights": [
-        "鍥寸粫鐖跺瓙鍏崇郴寤虹珛鍙欎簨鐭墖姒傚康",
-        "鐢ㄥ垎闀滃拰瑙嗚璇█鎺у埗鎯呯华鑺傚",
-        "瑙嗛鏂囦欢寰呰ˉ鍏呭悗鍙洿鎺ユ帴鍏ユ挱鏀惧櫒"
+        "围绕父子关系建立叙事短片概念",
+        "用分镜和视觉语言控制情绪节奏",
+        "视频文件待补充后可直接接入播放器"
       ],
-      "description": "浠ョ埗瀛愬叧绯诲拰琛ㄨ揪鍥板涓烘牳蹇冿紝浣跨敤 AI 瑙嗚鐢熸垚涓庡垎闀滅粍缁囧畬鎴愬彊浜嬬煭鐗囨蹇点€?,
+      "description": "以父子关系和表达困境为核心，使用 AI 视觉生成与分镜组织完成叙事短片概念。",
       "metric": "AI Narrative Short Film",
-      "note": "鍓ф湰 / 鍒嗛暅 / AI 瑙嗛瑙嗚",
-      "cover": "/public/works/covers/浠ｅ綍.jpg",
-      "poster": "/public/works/extracted/ai/pages/page-018.jpg",
+      "note": "剧本 / 分镜 / AI 视频视觉",
+      "cover": "./public/works/covers/代录.png",
+      "poster": "./public/works/extracted/ai/pages/page-018.png",
       "images": [
-        "/public/works/extracted/ai/pages/page-018.jpg",
-        "/public/works/extracted/ai/pages/page-019.jpg",
-        "/public/works/extracted/ai/pages/page-020.jpg"
+        "./public/works/extracted/ai/pages/page-018.png",
+        "./public/works/extracted/ai/pages/page-019.png",
+        "./public/works/extracted/ai/pages/page-020.png"
       ],
-      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePdf": "./public/yang-zitao-ai.pdf",
       "sourcePages": "18-20",
       "videoSrc": ""
     },
     {
       "id": "ice-beer-commercial",
-      "title": "琚啺鐖芥帴浣?,
+      "title": "被冰爽接住",
       "year": "2026",
-      "category": "骞垮憡瑙嗚",
+      "category": "广告视觉",
       "group": "visual",
       "section": "video",
       "featured": true,
-      "role": "AI骞垮憡姒傚康 / 浜у搧瑙嗚",
+      "role": "AI广告概念 / 产品视觉",
       "tools": [
         "AI Commercial",
         "Storyboard",
         "Key Visual"
       ],
       "highlights": [
-        "鎶婇€氬嫟鐤叉儷鍜屽啺鐖介噴鏀捐浆鍖栦负骞垮憡鍐茬獊",
-        "缁勭粐涓昏瑙夈€佷骇鍝佸崠鐐瑰拰鍒嗛暅鑺傚",
-        "瑙嗛鏂囦欢寰呰ˉ鍏呭悗鍙洿鎺ユ帴鍏ユ挱鏀惧櫒"
+        "把通勤疲惫和冰爽释放转化为广告冲突",
+        "组织主视觉、产品卖点和分镜节奏",
+        "视频文件待补充后可直接接入播放器"
       ],
-      "description": "浠ラ€氬嫟鐤叉儷涓庡啺鐖介噴鏀句负鏍稿績鍐茬獊锛屾瀯寤哄暏閰掑箍鍛婃蹇电墖鐨勪富瑙嗚銆佸垎闀滀笌浜у搧鍗栫偣琛ㄨ揪銆?,
+      "description": "以通勤疲惫与冰爽释放为核心冲突，构建啤酒广告概念片的主视觉、分镜与产品卖点表达。",
       "metric": "AI Commercial Film",
-      "note": "骞垮憡姒傚康 / 浜у搧瑙嗚 / AI 鐢熸垚",
-      "cover": "/public/works/covers/鍝堢毊.jpg",
-      "poster": "/public/works/extracted/ai/pages/page-021.jpg",
+      "note": "广告概念 / 产品视觉 / AI 生成",
+      "cover": "./public/works/covers/哈皮.jpg",
+      "poster": "./public/works/extracted/ai/pages/page-021.png",
       "images": [
-        "/public/works/extracted/ai/pages/page-021.jpg",
-        "/public/works/extracted/ai/pages/page-022.jpg",
-        "/public/works/extracted/ai/pages/page-023.jpg"
+        "./public/works/extracted/ai/pages/page-021.png",
+        "./public/works/extracted/ai/pages/page-022.png",
+        "./public/works/extracted/ai/pages/page-023.png"
       ],
-      "sourcePdf": "/public/yang-zitao-ai.pdf",
+      "sourcePdf": "./public/yang-zitao-ai.pdf",
       "sourcePages": "21-23",
       "videoSrc": ""
     },
     {
       "id": "ai-architectural-generation",
-      "title": "Midjourney 寤虹瓚鏂囩敓鍥惧疄楠?,
+      "title": "Midjourney 建筑文生图实验",
       "year": "2024",
       "category": "AI / AIGC",
       "group": "ai",
       "section": "ai-lab",
       "featured": false,
-      "role": "AIGC寤虹瓚姒傚康鎺㈢储",
+      "role": "AIGC建筑概念探索",
       "tools": [
         "Midjourney",
         "Prompt",
         "Concept"
       ],
       "highlights": [
-        "鐢ㄦ枃鐢熷浘鎺㈢储寤虹瓚浣撻噺銆佸厜褰卞拰鏈潵绌洪棿姘涘洿",
-        "浣滀负绌洪棿姒傚康鏃╂湡楠岃瘉鍜岃瑙夋柟鍚戞帹婕?,
-        "杩炴帴鐜鑹烘湳鑳屾櫙涓嶢IGC宸ヤ綔娴?
+        "用文生图探索建筑体量、光影和未来空间氛围",
+        "作为空间概念早期验证和视觉方向推演",
+        "连接环境艺术背景与AIGC工作流"
       ],
-      "description": "浣跨敤 Midjourney 鎺㈢储寤虹瓚姒傚康鐢熸垚銆佸厜褰遍鏍间笌鏈潵绌洪棿褰㈡€佽〃杈俱€?,
-      "metric": "AIGC 寤虹瓚瑙嗚",
-      "note": "Midjourney / 姒傚康寤虹瓚 / 瑙嗚瀹為獙",
-      "cover": "/public/works/covers/Stable Diffusion 寤虹瓚鏂囩敓鍥惧疄楠?png",
-      "poster": "/public/works/extracted/environment/pages/page-031.jpg",
+      "description": "使用 Midjourney 探索建筑概念生成、光影风格与未来空间形态表达。",
+      "metric": "AIGC 建筑视觉",
+      "note": "Midjourney / 概念建筑 / 视觉实验",
+      "cover": "./public/works/covers/Stable Diffusion 建筑文生图实验.png",
+      "poster": "./public/works/extracted/environment/pages/page-031.png",
       "images": [
-        "/public/works/extracted/environment/pages/page-031.jpg",
-        "/public/works/extracted/environment/pages/page-032.jpg"
+        "./public/works/extracted/environment/pages/page-031.png",
+        "./public/works/extracted/environment/pages/page-032.png"
       ],
-      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "31-32",
       "videoSrc": ""
     },
     {
       "id": "ai-space-conversion",
-      "title": "Stable Diffusion 鍒涙剰鐢熸垚涓?LoRA 椋庢牸妯″瀷娴嬭瘯",
+      "title": "Stable Diffusion 创意生成与 LoRA 风格模型测试",
       "year": "2024",
       "category": "AI / AIGC",
       "group": "ai",
       "section": "ai-lab",
       "featured": false,
-      "role": "Stable Diffusion 鍒涙剰鐢熸垚 / LoRA 娴嬭瘯",
+      "role": "Stable Diffusion 创意生成 / LoRA 测试",
       "tools": [
         "Stable Diffusion",
         "LoRA",
         "Image-to-Image"
       ],
       "highlights": [
-        "灏嗚崏鍥俱€佹棫寤虹瓚鐓х墖鍜屾剰鍚戝浘杞寲涓哄鍐呮蹇?,
-        "鎻愬崌绌洪棿鏀归€犳柟妗堢殑鏃╂湡鍙鍖栭€熷害",
-        "灞曠ずAI宸ュ叿鍦ㄨ璁℃祦绋嬩腑鐨勮緟鍔╀环鍊?
+        "将草图、旧建筑照片和意向图转化为室内概念",
+        "提升空间改造方案的早期可视化速度",
+        "展示AI工具在设计流程中的辅助价值"
       ],
-      "description": "浣跨敤 Stable Diffusion 杩涜鍥惧儚鍒涙剰鐢熸垚銆佸浘鐢熷浘杞崲涓?LoRA 椋庢牸妯″瀷娴嬭瘯锛屾帰绱笉鍚岃瑙夋柟鍚戝拰鐢熸垚鏁堟灉銆?,
-      "metric": "AI 鍒涙剰鐢熸垚 / LoRA 娴嬭瘯",
-      "note": "Stable Diffusion / LoRA / 鍥剧敓鍥?,
-      "cover": "/public/works/covers/Stable Diffusion 鍒涙剰鐢熸垚涓?LoRA 椋庢牸妯″瀷娴嬭瘯.jpg",
-      "poster": "/public/works/extracted/environment/pages/page-033.jpg",
+      "description": "使用 Stable Diffusion 进行图像创意生成、图生图转换与 LoRA 风格模型测试，探索不同视觉方向和生成效果。",
+      "metric": "AI 创意生成 / LoRA 测试",
+      "note": "Stable Diffusion / LoRA / 图生图",
+      "cover": "./public/works/covers/Stable Diffusion 创意生成与 LoRA 风格模型测试.png",
+      "poster": "./public/works/extracted/environment/pages/page-033.png",
       "images": [
-        "/public/works/extracted/environment/pages/page-033.jpg",
-        "/public/works/extracted/environment/pages/page-034.jpg",
-        "/public/works/extracted/environment/pages/page-035.jpg",
-        "/public/works/extracted/environment/pages/page-036.jpg"
+        "./public/works/extracted/environment/pages/page-033.png",
+        "./public/works/extracted/environment/pages/page-034.png",
+        "./public/works/extracted/environment/pages/page-035.png",
+        "./public/works/extracted/environment/pages/page-036.png"
       ],
-      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "33-36",
       "videoSrc": ""
     },
     {
       "id": "aging-digital-gap-landscape",
-      "title": "鑰侀緞鏁板瓧楦挎矡涓嬫彃鍏ュ紡鏅璁捐",
+      "title": "老龄数字鸿沟下插入式景观设计",
       "year": "2024",
-      "category": "鐜鑹烘湳",
+      "category": "环境艺术",
       "group": "environment",
       "section": "spatial",
       "featured": false,
-      "role": "閫傝€佸寲鏅璁捐",
+      "role": "适老化景观设计",
       "tools": [
         "Landscape",
         "Accessibility",
         "Diagram"
       ],
       "highlights": [
-        "鍥炲簲鑰佸勾缇や綋鍦ㄦ暟瀛楃敓娲讳腑鐨勬柇灞傞棶棰?,
-        "浠ュ叕鍏辩┖闂存彃鍏ョ瓥鐣ョ粍缁囩ぞ鍖烘椿鍔?,
-        "鍏奸【鐮旂┒璁鍜屾櫙瑙傝璁¤〃杈?
+        "回应老年群体在数字生活中的断层问题",
+        "以公共空间插入策略组织社区活动",
+        "兼顾研究议题和景观设计表达"
       ],
-      "description": "浠ラ€傝€佸寲鍏叡绌洪棿涓哄垏鍏ョ偣锛屽洖搴旇€佸勾缇や綋鍦ㄦ暟瀛楃敓娲讳腑鐨勬柇灞備笌鏃ュ父娲诲姩闇€姹傘€?,
-      "metric": "涓滃寳涓夌渷閫傝€佸寲绔炶禌浼樼濂?,
-      "note": "閫傝€佸寲 / 鏅鏇存柊 / 绀惧尯绌洪棿",
-      "cover": "/public/works/covers/鑰侀緞鏁板瓧楦挎矡涓嬫彃鍏ュ紡鏅璁捐.jpg",
-      "poster": "/public/works/extracted/environment/pages/page-010.jpg",
+      "description": "以适老化公共空间为切入点，回应老年群体在数字生活中的断层与日常活动需求。",
+      "metric": "东北三省适老化竞赛优秀奖",
+      "note": "适老化 / 景观更新 / 社区空间",
+      "cover": "./public/works/covers/老龄数字鸿沟下插入式景观设计.png",
+      "poster": "./public/works/extracted/environment/pages/page-010.png",
       "images": [
-        "/public/works/extracted/environment/pages/page-009.jpg",
-        "/public/works/extracted/environment/pages/page-010.jpg",
-        "/public/works/extracted/environment/pages/page-011.jpg",
-        "/public/works/extracted/environment/pages/page-012.jpg"
+        "./public/works/extracted/environment/pages/page-009.png",
+        "./public/works/extracted/environment/pages/page-010.png",
+        "./public/works/extracted/environment/pages/page-011.png",
+        "./public/works/extracted/environment/pages/page-012.png"
       ],
-      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "9-12",
       "videoSrc": ""
     },
     {
       "id": "hidden-city-river-village",
-      "title": "闅愪簬甯?路 鎲╀簬鏉?,
+      "title": "隐于市 · 憩于村",
       "year": "2023",
-      "category": "鏅璁捐",
+      "category": "景观设计",
       "group": "environment",
       "section": "spatial",
       "featured": false,
-      "role": "鏅璁捐 / 鐢熸€佸彊浜?,
+      "role": "景观设计 / 生态叙事",
       "tools": [
         "Landscape",
         "Ecology",
         "Masterplan"
       ],
       "highlights": [
-        "缁勭粐鍩庡競杈圭紭涓庝埂鏉戞棩甯哥殑鏌旀€ц繛鎺?,
-        "鍥寸粫鐢熸€佸哺绾裤€佹潙钀借矾寰勫拰鍏叡娲诲姩灞曞紑",
-        "閫氳繃杩炵画鍥炬澘灞曠ず鏅绛栫暐鍜岀┖闂存皼鍥?
+        "组织城市边缘与乡村日常的柔性连接",
+        "围绕生态岸线、村落路径和公共活动展开",
+        "通过连续图板展示景观策略和空间氛围"
       ],
-      "description": "浠ョ敓鎬佸哺绾裤€佹潙钀借矾寰勪笌鍏叡娲诲姩涓烘牳蹇冿紝寤虹珛鍩庡競杈圭紭涓庝埂鏉戞棩甯镐箣闂寸殑鏌旀€ц繛鎺ャ€?,
-      "metric": "鍥喍鏉珵璧涗綔鍝?,
-      "note": "鏅璁捐 / 鐢熸€佷慨澶?/ 涔℃潙绌洪棿",
-      "cover": "/public/works/covers/闅愪簬甯?路 鎲╀簬鏉?png",
-      "poster": "/public/works/extracted/environment/pages/page-014.jpg",
+      "description": "以生态岸线、村落路径与公共活动为核心，建立城市边缘与乡村日常之间的柔性连接。",
+      "metric": "园冶杯竞赛作品",
+      "note": "景观设计 / 生态修复 / 乡村空间",
+      "cover": "./public/works/covers/隐于市 · 憩于村.png",
+      "poster": "./public/works/extracted/environment/pages/page-014.png",
       "images": [
-        "/public/works/extracted/environment/pages/page-013.jpg",
-        "/public/works/extracted/environment/pages/page-014.jpg",
-        "/public/works/extracted/environment/pages/page-015.jpg",
-        "/public/works/extracted/environment/pages/page-016.jpg",
-        "/public/works/extracted/environment/pages/page-017.jpg",
-        "/public/works/extracted/environment/pages/page-018.jpg"
+        "./public/works/extracted/environment/pages/page-013.png",
+        "./public/works/extracted/environment/pages/page-014.png",
+        "./public/works/extracted/environment/pages/page-015.png",
+        "./public/works/extracted/environment/pages/page-016.png",
+        "./public/works/extracted/environment/pages/page-017.png",
+        "./public/works/extracted/environment/pages/page-018.png"
       ],
-      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "13-18",
       "videoSrc": ""
     },
@@ -374,103 +374,103 @@
       "id": "zambian-camp-sustainable-center",
       "title": "Sustainable Center in Zambian Camp",
       "year": "2024",
-      "category": "寤虹瓚绌洪棿",
+      "category": "建筑空间",
       "group": "environment",
       "section": "spatial",
       "featured": false,
-      "role": "鍙寔缁缓绛?/ 绀惧尯绌洪棿",
+      "role": "可持续建筑 / 社区空间",
       "tools": [
         "Architecture",
         "Sustainability",
         "Model"
       ],
       "highlights": [
-        "闈㈠悜闅炬皯钀ュ叕鍏辨敮鎸侀渶姹傜粍缁囧彲鎸佺画涓績",
-        "缁撳悎鍩虹璁炬柦銆佺ぞ鍖烘湇鍔″拰绌洪棿闊ф€?,
-        "閫氳繃妯″瀷銆佸墫闈㈠拰娓叉煋琛ㄨ揪寤虹瓚绯荤粺"
+        "面向难民营公共支持需求组织可持续中心",
+        "结合基础设施、社区服务和空间韧性",
+        "通过模型、剖面和渲染表达建筑系统"
       ],
-      "description": "闈㈠悜闅炬皯钀ュ満鏅殑鍙寔缁腑蹇冭璁★紝鍏虫敞鍩虹璁炬柦銆佺ぞ鍖烘敮鎸佷笌绌洪棿闊ф€с€?,
-      "metric": "ASLA 绔炶禌浣滃搧",
-      "note": "鍙寔缁缓绛?/ 闅炬皯钀?/ 鍏叡鏀寔绌洪棿",
-      "cover": "/public/works/covers/浠庡簾澧熶腑宕涜捣锛氳禐姣斾簹闅炬皯钀?png",
-      "poster": "/public/works/extracted/environment/pages/page-020.jpg",
+      "description": "面向难民营场景的可持续中心设计，关注基础设施、社区支持与空间韧性。",
+      "metric": "ASLA 竞赛作品",
+      "note": "可持续建筑 / 难民营 / 公共支持空间",
+      "cover": "./public/works/covers/从废墟中崛起：赞比亚难民营.png",
+      "poster": "./public/works/extracted/environment/pages/page-020.png",
       "images": [
-        "/public/works/extracted/environment/pages/page-019.jpg",
-        "/public/works/extracted/environment/pages/page-020.jpg",
-        "/public/works/extracted/environment/pages/page-021.jpg",
-        "/public/works/extracted/environment/pages/page-022.jpg",
-        "/public/works/extracted/environment/pages/page-023.jpg",
-        "/public/works/extracted/environment/pages/page-024.jpg",
-        "/public/works/extracted/environment/pages/page-025.jpg",
-        "/public/works/extracted/environment/pages/page-026.jpg",
-        "/public/works/extracted/environment/pages/page-027.jpg",
-        "/public/works/extracted/environment/pages/page-028.jpg"
+        "./public/works/extracted/environment/pages/page-019.png",
+        "./public/works/extracted/environment/pages/page-020.png",
+        "./public/works/extracted/environment/pages/page-021.png",
+        "./public/works/extracted/environment/pages/page-022.png",
+        "./public/works/extracted/environment/pages/page-023.png",
+        "./public/works/extracted/environment/pages/page-024.png",
+        "./public/works/extracted/environment/pages/page-025.png",
+        "./public/works/extracted/environment/pages/page-026.png",
+        "./public/works/extracted/environment/pages/page-027.png",
+        "./public/works/extracted/environment/pages/page-028.png"
       ],
-      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "19-28",
       "videoSrc": ""
     },
     {
       "id": "bionic-natural-parameters",
-      "title": "浠跨敓 路 鍙傛暟鑷劧",
+      "title": "仿生 · 参数自然",
       "year": "2021",
-      "category": "瑁呯疆璁捐",
+      "category": "装置设计",
       "group": "environment",
       "section": "spatial",
       "featured": false,
-      "role": "鍙傛暟鍖栬缃?/ 妯″瀷鍒朵綔",
+      "role": "参数化装置 / 模型制作",
       "tools": [
         "Parametric",
         "Installation",
         "Model"
       ],
       "highlights": [
-        "浠ヤ豢鐢熷舰鎬佺敓鎴愯缃鏋?,
-        "缁撳悎鍏変紡渚涜兘鍜岀伅鍏夊疄楠屽舰鎴愬睍绀烘ā鍨?,
-        "浣撶幇缁撴瀯鎺ㄦ紨鍜屽疄浣撳埗浣滆兘鍔?
+        "以仿生形态生成装置骨架",
+        "结合光伏供能和灯光实验形成展示模型",
+        "体现结构推演和实体制作能力"
       ],
-      "description": "浠ヤ豢鐢熷舰鎬佸拰鍙傛暟鍖栫粨鏋勭敓鎴愯缃鏋讹紝缁撳悎鍏変紡渚涜兘涓庣伅鍏夊疄楠屽舰鎴愬彲灞曠ず妯″瀷銆?,
-      "metric": "妯″瀷鍒朵綔 / 鍙傛暟鍖栧舰鎬?,
-      "note": "浠跨敓缁撴瀯 / 瑁呯疆 / 鐏厜瀹為獙",
-      "cover": "/public/works/covers/浠跨敓 路 鍙傛暟鑷劧.jpg",
-      "poster": "/public/works/extracted/environment/pages/page-029.jpg",
+      "description": "以仿生形态和参数化结构生成装置骨架，结合光伏供能与灯光实验形成可展示模型。",
+      "metric": "模型制作 / 参数化形态",
+      "note": "仿生结构 / 装置 / 灯光实验",
+      "cover": "./public/works/covers/仿生 · 参数自然.png",
+      "poster": "./public/works/extracted/environment/pages/page-029.png",
       "images": [
-        "/public/works/extracted/environment/pages/page-029.jpg",
-        "/public/works/extracted/environment/pages/page-030.jpg"
+        "./public/works/extracted/environment/pages/page-029.png",
+        "./public/works/extracted/environment/pages/page-030.png"
       ],
-      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "29-30",
       "videoSrc": ""
     },
     {
       "id": "blue-white-commercial-space",
-      "title": "钃濈櫧鍟嗕笟绌洪棿璁捐",
+      "title": "蓝白商业空间设计",
       "year": "2024",
-      "category": "瀹ゅ唴璁捐",
+      "category": "室内设计",
       "group": "environment",
       "section": "spatial",
       "featured": false,
-      "role": "瀹ゅ唴璁捐 / 闂ㄥご瑙嗚",
+      "role": "室内设计 / 门头视觉",
       "tools": [
         "Interior",
         "Brand Space",
         "Layout"
       ],
       "highlights": [
-        "鐢ㄨ摑鐧借壊褰╃郴缁熺粺涓€鍟嗕笟绌洪棿涓庨棬澶磋瑙?,
-        "瑕嗙洊骞抽潰甯冨眬銆佹晥鏋滃浘鍜屾潗鏂欒〃杈?,
-        "灞曠ず瀹ゅ唴绌洪棿涓庡搧鐗岃瑙夋暣鍚堣兘鍔?
+        "用蓝白色彩系统统一商业空间与门头视觉",
+        "覆盖平面布局、效果图和材料表达",
+        "展示室内空间与品牌视觉整合能力"
       ],
-      "description": "浠ヨ摑鐧借壊褰╃郴缁熷拰娓呯埥鏉愯川缁勭粐鍟嗕笟绌洪棿銆佸钩闈㈠竷灞€涓庨棬澶磋瑙夈€?,
-      "metric": "瀹ゅ唴 / 闂ㄥご / 骞抽潰",
-      "note": "鍟嗕笟绌洪棿 / 瀹ゅ唴璁捐 / 瑙嗚缁熶竴",
-      "cover": "/public/works/covers/钃濈櫧鍟嗕笟绌洪棿璁捐.jpg",
-      "poster": "/public/works/extracted/environment/pages/page-037.jpg",
+      "description": "以蓝白色彩系统和清爽材质组织商业空间、平面布局与门头视觉。",
+      "metric": "室内 / 门头 / 平面",
+      "note": "商业空间 / 室内设计 / 视觉统一",
+      "cover": "./public/works/covers/蓝白商业空间设计.png",
+      "poster": "./public/works/extracted/environment/pages/page-037.png",
       "images": [
-        "/public/works/extracted/environment/pages/page-037.jpg",
-        "/public/works/extracted/environment/pages/page-038.jpg"
+        "./public/works/extracted/environment/pages/page-037.png",
+        "./public/works/extracted/environment/pages/page-038.png"
       ],
-      "sourcePdf": "/public/yang-zitao-environment-art.pdf",
+      "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "37-38",
       "videoSrc": ""
     }
