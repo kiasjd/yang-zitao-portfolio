@@ -128,14 +128,13 @@
       "cover": "./public/works/covers/《缓·隅》校园情绪支持空间.png",
       "poster": "./public/works/extracted/ai/pages/page-013.png",
       "images": [
-        "./public/works/extracted/ai/pages/page-014.png",
-        "./public/works/extracted/ai/pages/page-015.png",
-        "./public/works/extracted/ai/pages/page-016.png",
-        "./public/works/extracted/ai/pages/page-017.png"
+        "./public/works/combined/huan-yu-campus-space-spread-01.jpg",
+        "./public/works/combined/huan-yu-campus-space-spread-02.jpg"
       ],
       "sourcePdf": "./public/yang-zitao-ai.pdf",
       "sourcePages": "13-17",
-      "videoSrc": ""
+      "videoSrc": "",
+      "media": []
     },
     {
       "id": "window-paper-cut-city",
@@ -143,7 +142,7 @@
       "year": "2026",
       "category": "AI / AIGC",
       "group": "ai",
-      "section": "ai-lab",
+      "section": "video",
       "featured": true,
       "role": "非遗视觉转译 / 动态图形",
       "tools": [
@@ -325,14 +324,13 @@
       "cover": "./public/works/covers/老龄数字鸿沟下插入式景观设计.png",
       "poster": "./public/works/extracted/environment/pages/page-010.png",
       "images": [
-        "./public/works/extracted/environment/pages/page-009.png",
-        "./public/works/extracted/environment/pages/page-010.png",
-        "./public/works/extracted/environment/pages/page-011.png",
-        "./public/works/extracted/environment/pages/page-012.png"
+        "./public/works/combined/aging-digital-gap-landscape-spread-01.jpg",
+        "./public/works/combined/aging-digital-gap-landscape-spread-02.jpg"
       ],
       "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "9-12",
-      "videoSrc": ""
+      "videoSrc": "",
+      "media": []
     },
     {
       "id": "hidden-city-river-village",
@@ -359,16 +357,14 @@
       "cover": "./public/works/covers/隐于市 · 憩于村.png",
       "poster": "./public/works/extracted/environment/pages/page-014.png",
       "images": [
-        "./public/works/extracted/environment/pages/page-013.png",
-        "./public/works/extracted/environment/pages/page-014.png",
-        "./public/works/extracted/environment/pages/page-015.png",
-        "./public/works/extracted/environment/pages/page-016.png",
-        "./public/works/extracted/environment/pages/page-017.png",
-        "./public/works/extracted/environment/pages/page-018.png"
+        "./public/works/combined/hidden-city-river-village-spread-01.jpg",
+        "./public/works/combined/hidden-city-river-village-spread-02.jpg",
+        "./public/works/combined/hidden-city-river-village-spread-03.jpg"
       ],
       "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "13-18",
-      "videoSrc": ""
+      "videoSrc": "",
+      "media": []
     },
     {
       "id": "zambian-camp-sustainable-center",
@@ -395,20 +391,15 @@
       "cover": "./public/works/covers/从废墟中崛起：赞比亚难民营.png",
       "poster": "./public/works/extracted/environment/pages/page-020.png",
       "images": [
-        "./public/works/extracted/environment/pages/page-019.png",
-        "./public/works/extracted/environment/pages/page-020.png",
-        "./public/works/extracted/environment/pages/page-021.png",
-        "./public/works/extracted/environment/pages/page-022.png",
-        "./public/works/extracted/environment/pages/page-023.png",
-        "./public/works/extracted/environment/pages/page-024.png",
-        "./public/works/extracted/environment/pages/page-025.png",
-        "./public/works/extracted/environment/pages/page-026.png",
-        "./public/works/extracted/environment/pages/page-027.png",
-        "./public/works/extracted/environment/pages/page-028.png"
+        "./public/works/combined/zambian-camp-sustainable-center-spread-01.jpg",
+        "./public/works/combined/zambian-camp-sustainable-center-spread-02.jpg",
+        "./public/works/combined/zambian-camp-sustainable-center-spread-03.jpg",
+        "./public/works/combined/zambian-camp-sustainable-center-spread-04.jpg"
       ],
       "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "19-28",
-      "videoSrc": ""
+      "videoSrc": "",
+      "media": []
     },
     {
       "id": "bionic-natural-parameters",
@@ -435,12 +426,12 @@
       "cover": "./public/works/covers/仿生 · 参数自然.png",
       "poster": "./public/works/extracted/environment/pages/page-029.png",
       "images": [
-        "./public/works/extracted/environment/pages/page-029.png",
-        "./public/works/extracted/environment/pages/page-030.png"
+        "./public/works/combined/bionic-natural-parameters-spread-01.jpg"
       ],
       "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "29-30",
-      "videoSrc": ""
+      "videoSrc": "",
+      "media": []
     },
     {
       "id": "blue-white-commercial-space",
@@ -467,12 +458,12 @@
       "cover": "./public/works/covers/蓝白商业空间设计.png",
       "poster": "./public/works/extracted/environment/pages/page-037.png",
       "images": [
-        "./public/works/extracted/environment/pages/page-037.png",
-        "./public/works/extracted/environment/pages/page-038.png"
+        "./public/works/combined/blue-white-commercial-space-spread-01.jpg"
       ],
       "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "37-38",
-      "videoSrc": ""
+      "videoSrc": "",
+      "media": []
     }
   ]
 }
