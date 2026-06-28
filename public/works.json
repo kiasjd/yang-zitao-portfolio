@@ -128,8 +128,10 @@
       "cover": "./public/works/covers/《缓·隅》校园情绪支持空间.png",
       "poster": "./public/works/extracted/ai/pages/page-013.png",
       "images": [
-        "./public/works/combined/huan-yu-campus-space-spread-01.jpg",
-        "./public/works/combined/huan-yu-campus-space-spread-02.jpg"
+        "./public/works/extracted/ai/pages/page-014.png",
+        "./public/works/extracted/ai/pages/page-015.png",
+        "./public/works/extracted/ai/pages/page-016.png",
+        "./public/works/extracted/ai/pages/page-017.png"
       ],
       "sourcePdf": "./public/yang-zitao-ai.pdf",
       "sourcePages": "13-17",
@@ -258,12 +260,12 @@
       "cover": "./public/works/covers/Stable Diffusion 建筑文生图实验.png",
       "poster": "./public/works/extracted/environment/pages/page-031.png",
       "images": [
-        "./public/works/extracted/environment/pages/page-031.png",
-        "./public/works/extracted/environment/pages/page-032.png"
+        "./public/works/combined/ai-architectural-generation-spread-01.jpg"
       ],
       "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "31-32",
-      "videoSrc": ""
+      "videoSrc": "",
+      "media": []
     },
     {
       "id": "ai-space-conversion",
@@ -290,19 +292,18 @@
       "cover": "./public/works/covers/Stable Diffusion 创意生成与 LoRA 风格模型测试.png",
       "poster": "./public/works/extracted/environment/pages/page-033.png",
       "images": [
-        "./public/works/extracted/environment/pages/page-033.png",
-        "./public/works/extracted/environment/pages/page-034.png",
-        "./public/works/extracted/environment/pages/page-035.png",
-        "./public/works/extracted/environment/pages/page-036.png"
+        "./public/works/combined/ai-space-conversion-spread-01.jpg",
+        "./public/works/combined/ai-space-conversion-spread-02.jpg"
       ],
       "sourcePdf": "./public/yang-zitao-environment-art.pdf",
       "sourcePages": "33-36",
-      "videoSrc": ""
+      "videoSrc": "",
+      "media": []
     },
     {
       "id": "aging-digital-gap-landscape",
       "title": "老龄数字鸿沟下插入式景观设计",
-      "year": "2024",
+      "year": "2023",
       "category": "环境艺术",
       "group": "environment",
       "section": "spatial",
