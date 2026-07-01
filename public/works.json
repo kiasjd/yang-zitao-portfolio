@@ -167,7 +167,7 @@
       ],
       "sourcePdf": "",
       "sourcePages": "",
-      "videoSrc": ""
+      "videoSrc": "https://yang-zitao-portfolio-video-1435324091.cos.ap-nanjing.myqcloud.com/%E4%B8%80%E5%BC%A0%E7%AA%97%E8%8A%B1%EF%BC%8C%E8%B5%B0%E8%BF%9B%E5%9F%8E%E5%B8%82.mp4"
     },
     {
       "id": "dailu-ai-short-film",
@@ -200,7 +200,7 @@
       ],
       "sourcePdf": "./public/yang-zitao-ai.pdf",
       "sourcePages": "18-20",
-      "videoSrc": ""
+      "videoSrc": "https://yang-zitao-portfolio-video-1435324091.cos.ap-nanjing.myqcloud.com/%E4%BB%A3%E5%BD%95.mp4"
     },
     {
       "id": "ice-beer-commercial",
@@ -233,7 +233,7 @@
       ],
       "sourcePdf": "./public/yang-zitao-ai.pdf",
       "sourcePages": "21-23",
-      "videoSrc": ""
+      "videoSrc": "https://yang-zitao-portfolio-video-1435324091.cos.ap-nanjing.myqcloud.com/%E5%93%88%E5%95%A4.mp4"
     },
     {
       "id": "ai-architectural-generation",
